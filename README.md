@@ -12,7 +12,7 @@ In the future, I would like to associate my professional career with programming
 
 ✔️ [FastAPI User Guide](https://fastapi.tiangolo.com/tutorial/)
 
-🟡 [SQLAlchemy ORM tutorial](https://docs.sqlalchemy.org/en/14/orm/tutorial.html)
+✔️ [SQLAlchemy ORM tutorial](https://docs.sqlalchemy.org/en/14/orm/tutorial.html)
 
 <!-- ✔️ 🟡 -->
 
