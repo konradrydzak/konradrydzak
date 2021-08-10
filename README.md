@@ -22,7 +22,7 @@ In the future, I would like to associate my professional career with programming
 - Elementary API usage
 - Knowledge of JSON/CSV files
 - Basic knowledge of PyCharm
-- Creating simple GUI (Tkinter)
+- Creating simple GUI (Tkinter, Pygame)
 - Basic SQL (PostgreSQL, SQLite) usage
 - Elementary Django usage
 - FastAPI implementaion
