@@ -27,6 +27,7 @@ In the future, I would like to associate my professional career with programming
 - Elementary Django usage
 - FastAPI implementaion
 - Simple ORM (SQLAlchemy) usage
+- Basics of containerization in Docker (with an ability to host apps using containers)
 
 ## Why the development towards becoming a programmer and not a job related to my field of studies?
 While studying and working out various projects for my classes and for myself - in my spare time, I noticed that solving various problems, searching for new knowledge and implementing it to my own needs is very interesting and engaging for me. When starting any project, I feel motivated and absorbed for hours on end. Even when problems require a lot of work to be solved, I strive hard to finally find a solution.
