@@ -14,6 +14,8 @@ In the future, I would like to associate my professional career with programming
 
 ✔️ [SQLAlchemy ORM tutorial](https://docs.sqlalchemy.org/en/14/orm/tutorial.html)
 
+✔️ [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+
 <!-- ✔️ 🟡 -->
 
 # Skills:
