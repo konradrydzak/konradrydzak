@@ -33,10 +33,12 @@ a professional environment, where I could improve my knowledge and gain experien
 - Creating simple GUI (Tkinter, Pygame)
 - Basic SQL (PostgreSQL, SQLite) usage
 - Elementary Django usage (Django Rest Framework included)
-- FastAPI implementaion
+- FastAPI implementation
 - Simple ORM (SQLAlchemy, Django Rest Framework) usage
 - Basics of containerization in Docker (with an ability to host apps using containers)
 - Elementary frontend (Angular) development
+- Deep learning (in computer vision) using Tensorflow and Keras 
+- Building web apps with streamlit.io 
 
 ## Why the development towards becoming a programmer and not a job related to my field of studies?
 
