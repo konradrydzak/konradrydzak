@@ -19,7 +19,7 @@ a professional environment, where I could improve my knowledge and gain experien
 
 ✔️ [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
-🟡   [Microsoft Web-Dev course](https://github.com/microsoft/Web-Dev-For-Beginners)
+🟡 [Microsoft Web-Dev course](https://github.com/microsoft/Web-Dev-For-Beginners)
 
 <!-- ✔️ 🟡 -->
 
@@ -29,7 +29,7 @@ a professional environment, where I could improve my knowledge and gain experien
 - Usage of documentation (matplotlib, numpy, PostgreSQL, FastAPI)
 - Elementary API usage
 - Knowledge of JSON/CSV files
-- Basic knowledge of PyCharm
+- Basic knowledge of using PyCharm, Jupyter Notebook
 - Creating simple GUI (Tkinter, Pygame)
 - Basic SQL (PostgreSQL, SQLite) usage
 - Elementary Django usage (Django Rest Framework included)
@@ -38,11 +38,11 @@ a professional environment, where I could improve my knowledge and gain experien
 - Basics of containerization in Docker (with an ability to host apps using containers)
 - Elementary frontend (Angular) development
 - Deep learning (in computer vision) using Tensorflow and Keras 
-- Building web apps with streamlit.io 
+- Building web apps with streamlit.io
 
 ## Why the development towards becoming a programmer and not a job related to my field of studies?
 
-While studying and working out various projects for my classes and for myself - in my spare time, I noticed that solving
+While studying and working out various coding projects for my classes and for myself - in my spare time, I noticed that solving
 various problems, searching for new knowledge and implementing it to my own needs is very interesting and engaging for
 me. When starting any project, I feel motivated and absorbed for hours on end. Even when problems require a lot of work
 to be solved, I strive hard to finally find a solution.
