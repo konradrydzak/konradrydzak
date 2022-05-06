@@ -39,6 +39,7 @@ a professional environment, where I could improve my knowledge and gain experien
 - Elementary frontend (Angular) development
 - Deep learning (in computer vision) using Tensorflow and Keras 
 - Building web apps with streamlit.io
+- Using NoSQL (MongoDB) databases
 
 ## Why the development towards becoming a programmer and not a job related to my field of studies?
 
