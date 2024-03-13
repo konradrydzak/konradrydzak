@@ -21,24 +21,6 @@ Feel free to check out my personal website, repos and everything listed below.
 
 ️✔️ [Microsoft Web-Dev course](https://github.com/microsoft/Web-Dev-For-Beginners)
 
+️🟡️ [William S. Vincent - Django for Beginners](https://djangoforbeginners.com/)
+
 <!--✔️🟡-->
-
-# Skills:
-
-- Python language
-- Using documentation (matplotlib, numpy, PostgreSQL, FastAPI)
-- Elementary API usage
-- Knowledge of JSON/CSV files
-- Basic knowledge of using PyCharm, Jupyter Notebook
-- Simple GUI creation (Tkinter, Pygame)
-- Basic SQL (PostgreSQL, SQLite) usage
-- Elementary Django usage (Django Rest Framework included)
-- FastAPI implementation
-- Simple ORM (SQLAlchemy, Django Rest Framework) usage
-- Basics of containerization in Docker (with the ability to host applications using containers)
-- Elementary frontend (Angular) development
-- Deep learning (in computer vision) using Tensorflow and Keras
-- Building web apps with streamlit.io
-- Using NoSQL databases (MongoDB)
-- Basics of HTML, CSS and JS
-- Advanced usage of (Python) regex
